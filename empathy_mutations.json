@@ -1,0 +1,39 @@
+[
+
+{
+    "type": "mutation",
+    "id": "SLY_MYSTERIOUS",
+    "name": { "str": "Mysterious Changes" },
+    "points": 1,
+    "description": "You've been feeling odd ever since reality started to tear itself apart.  When you look upon those that have been affected and changed by this reality, you can sense a sort of kinship with them and greater still, you can feel that kinship flowing both ways.  They may not rush to rescue you in a pinch unless the threat to you is also hostile to themselves, but you are able to walk among them as equals.  Even regular animals seem to respond to you differently, though less so.",
+		"valid": false,
+		"purifiable": false,
+		"profession": true,
+		"starting_trait": true,
+		"anger_relations": 
+		[ 
+			[ "UPLIFT", -100 ], 
+			[ "MAMMAL", -25 ],  
+			[ "MUTANT", -95 ], 
+			[ "FBIO-WEAPON", -25 ] 
+		]
+},
+
+{
+    "type": "mutation",
+    "id": "SLY_SILICON_COMPASSION",
+    "name": { "str": "Machine Empathy" },
+    "points": 2,
+    "description": "Something about you seems to spark recognition or, perhaps, a recognition of sorts in the robots around you that have even the most rudimentary AI.  Most of the haywire robots out there will be slower to identify you as a threat, if they do at all - but they will not go out of their way to aid you unless you are able to hack them to do so.",
+		"valid": false,
+		"purifiable": false,
+		"profession": true,
+		"starting_trait": true,
+		"anger_relations": 
+		[ 
+			[ "ROBOT", -65 ] 
+		]
+}
+  
+]
+  

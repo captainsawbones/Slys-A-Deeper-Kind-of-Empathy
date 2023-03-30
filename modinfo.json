@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "slydeeperempathy",
+    "name": "A Deeper Kind of Empathy",
+    "authors": [ "CaptainSawbones" ],
+    "maintainers": [ "CaptainSawbones" ],
+    "description": "Two new mutations, choosable at character creation, that modify the relationships between the character and various being-types in the apocalypse.  Feel free to give me feedback or suggestions for more!",
+    "category": "magical",
+    "dependencies": [ "dda" ]
+  }
+]
