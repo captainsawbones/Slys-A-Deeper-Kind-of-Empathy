@@ -12,10 +12,8 @@
 		"starting_trait": true,
 		"anger_relations": 
 		[ 
-			[ "UPLIFT", -100 ], 
 			[ "MAMMAL", -25 ],  
-			[ "MUTANT", -95 ], 
-			[ "FBIO-WEAPON", -25 ] 
+			[ "MUTANT", -95 ],
 		]
 },
 
